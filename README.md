@@ -20,7 +20,7 @@ users.route.ts are in services/api/users.route.ts
 customer.route.ts are in services/api/users.route.ts 
 -> the route become  http://localhost:3000/api/subroute/cuctomer
 
-if you copi or move the files.route.ts in services -> auto generate new routes
+if you copy or move the files.route.ts in services -> auto generate new routes
 
 the macro are in index.bs.ts that autogenerate the code when launch or build.
 ## Install:
